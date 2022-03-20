@@ -9,9 +9,9 @@
        Datastructures
        Algorithms
 
-- 🌱 I’m currently learning - [machine-learning], Computer Networks, Deep Learning, Datastructures and algorithms
+- 🌱 I’m currently learning - Deep Learning, Datastructures and algorithms
 
-- 🎈 Further goals - Advanced Computer Networks, Deep Learning
+- 🎈 Further goals - Computer Networks
 
 - 💞️ I love sharing ideas and discuss projects😉
 ---
