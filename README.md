@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Ashutosh Singh Rawat
+# 👋 Hi, I’m Ashutosh Singh Rawat
 
 ## I love to be a student
 
