@@ -7,25 +7,37 @@
        Datastructures
        Algorithms
 
-- 🌱 I’m currently learning - [Machine Learning], Computer Networks, Deep Learning, Datastructures and algorithms
+- 🌱 I’m currently learning - [machine-learning], Computer Networks, Deep Learning, Datastructures and algorithms
 
-- 🎈 Further goals - Advanced Computer Networks and more on Deep Learning
+- 🎈 Further goals - Advanced Computer Networks, Deep Learning
 
 - 💞️ I love sharing ideas and discuss projects😉
 
 ### 📫 How to reach me:
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[!(./img/twitter-light.svg)](https://twitter.com/AshutoshSRawat#gh-light-mode-only)
+[!(./img/twitter-dark.svg)](https://twitter.com/AshutoshSRawat#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[!(./img/linkedin-light.svg)](https://linkedin.com/in/ashutosh-singh-rawat-ml#gh-light-mode-only)
+[!(./img/linkedin-dark.svg)](https://linkedin.com/in/ashutosh-singh-rawat-ml#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
-</details>
-[Machine Learning] : https://coursera.org/share/19f029944e10b37c18e4875e98ec17d6
-[linkedIn] :
-[twitter] : 
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
+
+<br />
+<br />
+
+---
+
+[machine-learning] : https://coursera.org/share/19f029944e10b37c18e4875e98ec17d6
+[linkedIn] : https://www.linkedin.com/in/ashutosh-singh-rawat-ml/
+[twitter] : https://www.twitter.com/AshutoshSRawat
 
 
 <!---
