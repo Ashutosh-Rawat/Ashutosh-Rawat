@@ -1,14 +1,14 @@
-- 👋 Hi, I’m @Ashutosh-Rawat
+### 👋 Hi, I’m Ashutosh Singh Rawat
 
-- 👀 Areas of interest - 
--       Machine Learning 
--       Competitive Programming 
--       Datastructures 
--       Algorithms
+- # 👀 Areas of interest -
+       Machine Learning
+       Competitive Programming
+       Datastructures
+       Algorithms
 
 - 🌱 I’m currently learning - Machine Learning, Computer Networks, Deep Learning, Datastructures and algorithms
-
-- 💞️ I’m looking forward to become Machine Learning Engineer
+<br />
+- 💞️ I love sharing ideas and discuss projects😉
 
 - 📫 How to reach me:
             My twitter username - 'AshutoshSRawat'
