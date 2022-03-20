@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Ashutosh Singh Rawat
 
-## I'm love being a student
+## I love to be a student
 
 - ### 👀 Areas of interest -
 
@@ -38,6 +38,7 @@
 ---
 
 [machine-learning] : <https://coursera.org/share/19f029944e10b37c18e4875e98ec17d6>
+
 [linkedin] : <https://www.linkedin.com/in/ashutosh-singh-rawat-ml/>
 [twitter] : <https://www.twitter.com/AshutoshSRawat>
 
