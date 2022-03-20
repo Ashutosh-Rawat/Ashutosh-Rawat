@@ -14,12 +14,8 @@
 - 🎈 Further goals - Advanced Computer Networks, Deep Learning
 
 - 💞️ I love sharing ideas and discuss projects😉
-<br />
-
 ---
-<br />
-
-### 📫 How to reach me
+### 📫 How to reach me:
 
 [![twitter](./img/twitter-light.svg)](https://twitter.com/AshutoshSRawat#gh-light-mode-only)
 [![twitter](./img/twitter-dark.svg)](https://twitter.com/AshutoshSRawat#gh-dark-mode-only)
