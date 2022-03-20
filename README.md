@@ -1,13 +1,12 @@
 ### 👋 Hi, I’m Ashutosh Singh Rawat
 
-- # 👀 Areas of interest -
+- ### 👀 Areas of interest -
        Machine Learning
        Competitive Programming
        Datastructures
        Algorithms
 
 - 🌱 I’m currently learning - Machine Learning, Computer Networks, Deep Learning, Datastructures and algorithms
-<br />
 - 💞️ I love sharing ideas and discuss projects😉
 
 - 📫 How to reach me:
