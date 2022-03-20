@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning - Machine Learning, Computer Networks, Deep Learning, Datastructures and algorithms
 
-- 💞️ I’m interested to become Machine Learning Engineer
+- 💞️ I’m looking forward to become Machine Learning Engineer
 
 - 📫 How to reach me:
             My twitter username - 'AshutoshSRawat'
