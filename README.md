@@ -16,11 +16,11 @@
 ---
 <br />
 ### 📫 How to reach me:
-[![website](./img/twitter-light.svg)](https://twitter.com/AshutoshSRawat#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AshutoshSRawat#gh-dark-mode-only)
+[(./img/twitter-light.svg)](https://twitter.com/AshutoshSRawat#gh-light-mode-only)
+[(./img/twitter-dark.svg)](https://twitter.com/AshutoshSRawat#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ashutosh-singh-rawat-ml#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ashutosh-singh-rawat-ml#gh-dark-mode-only)
+[(./img/linkedin-light.svg)](https://linkedin.com/in/ashutosh-singh-rawat-ml#gh-light-mode-only)
+[(./img/linkedin-dark.svg)](https://linkedin.com/in/ashutosh-singh-rawat-ml#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
