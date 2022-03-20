@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Ashutosh Singh Rawat
 
-## I'm Student who loves to learn... 
+## I'm love being a student 
 - ### 👀 Areas of interest -
        Machine Learning
        Competitive Programming
@@ -12,16 +12,15 @@
 - 🎈 Further goals - Advanced Computer Networks, Deep Learning
 
 - 💞️ I love sharing ideas and discuss projects😉
-
 <br />
+---
 <br />
-
 ### 📫 How to reach me:
-[!(./img/twitter-light.svg)](https://twitter.com/AshutoshSRawat#gh-light-mode-only)
-[!(./img/twitter-dark.svg)](https://twitter.com/AshutoshSRawat#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/AshutoshSRawat#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/AshutoshSRawat#gh-dark-mode-only)
 &nbsp;&nbsp;
-[!(./img/linkedin-light.svg)](https://linkedin.com/in/ashutosh-singh-rawat-ml#gh-light-mode-only)
-[!(./img/linkedin-dark.svg)](https://linkedin.com/in/ashutosh-singh-rawat-ml#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ashutosh-singh-rawat-ml#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ashutosh-singh-rawat-ml#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
