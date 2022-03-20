@@ -1,8 +1,18 @@
 - 👋 Hi, I’m @Ashutosh-Rawat
-- 👀 I’m interested in everything which helps me to grow
-- 🌱 I’m currently learning Machine Learning, advance datastructures and algorithms and also doing my statistics and calculas.
-- 💞️ I’m looking to collaborate on Programming (truely I have no idea .lol....)
-- 📫 How to reach me - I am active on twitter with the username - 'AshutoshSRawat', My Linkedin Profile is - 'https://www.linkedin.com/in/ashutosh-singh-rawat-ml/' or you can contact me through my email given.
+
+- 👀 Areas of interest - 
+-       Machine Learning 
+-       Competitive Programming 
+-       Datastructures 
+-       Algorithms
+
+- 🌱 I’m currently learning - Machine Learning, Computer Networks, Deep Learning, Datastructures and algorithms
+
+- 💞️ I’m looking forward to become Machine Learning Engineer
+
+- 📫 How to reach me:
+            My twitter username - 'AshutoshSRawat'
+            My Linkedin Profile - 'https://www.linkedin.com/in/ashutosh-singh-rawat-ml/'
 
 <!---
 Ashutosh-Rawat/Ashutosh-Rawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
