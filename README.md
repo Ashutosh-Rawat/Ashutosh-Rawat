@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ashutosh Singh Rawat
 
-## I love being a student
+## I love being a student  :upside_down_face: 
 
 - 👀 Areas of interest -
 
