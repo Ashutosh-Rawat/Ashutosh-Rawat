@@ -2,7 +2,7 @@
 
 ## I love being a student
 
-- ### 👀 Areas of interest -
+- 👀 Areas of interest -
 
        - Machine Learning
        - Competitive Programming
