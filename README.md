@@ -14,8 +14,10 @@
 - 🎈 Further goals - Working as a Machine Learning engineer
 
 - 💞️ I love sharing ideas and discuss projects😉
+
 ---
-### 📫 How to reach me:
+
+### 📫 How to reach me
 
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/ashutosh-singh-rawat-ml#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/ashutosh-singh-rawat-ml#gh-dark-mode-only)
