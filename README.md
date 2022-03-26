@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ashutosh Singh Rawat
 
-## I love being a student  :upside_down_face: 
+## I love being a student  :upside_down_face
 
 - 👀 Areas of interest -
 
@@ -35,8 +35,14 @@
 <br />
 <br />
 
----
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
+---
 [machine-learning]:<https://coursera.org/share/19f029944e10b37c18e4875e98ec17d6>
 [linkedin]:<https://www.linkedin.com/in/ashutosh-singh-rawat-ml/>
 [twitter]:<https://www.twitter.com/AshutoshSRawat>
