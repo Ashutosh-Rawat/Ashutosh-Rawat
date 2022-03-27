@@ -38,12 +38,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ashutosh Singh Rawat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Rawat_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  [![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutosh-Rawat)](https://github.com/Ashutosh-Rawat/github-readme-stats)
 
 </details>
-
-
-[![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [machine-learning]:<https://coursera.org/share/19f029944e10b37c18e4875e98ec17d6>
