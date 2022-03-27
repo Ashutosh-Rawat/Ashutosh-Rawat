@@ -44,6 +44,9 @@
 
 </details>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh-Rawat&repo=github-readme-stats)](https://github.com/Ashutosh-Rawat/github-readme-stats)
+
+
 ---
 [machine-learning]:<https://coursera.org/share/19f029944e10b37c18e4875e98ec17d6>
 [linkedin]:<https://www.linkedin.com/in/ashutosh-singh-rawat-ml/>
