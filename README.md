@@ -30,7 +30,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][machine-learning]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][machine-learning]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/ashutoshsrawat/Ashutosh-Rawat/)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/Ashutosh-Rawat/Ashutosh-Rawat/)
 
 <br />
 <br />
@@ -38,9 +38,9 @@
 <details>
   <summary>:zap: GitHub Stats </summary>
 
-  [![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutoshsrawat&show-icons=true&theme=tokyonight)](https://github.com/ashutoshsrawat/github-readme-stats)
+  [![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutosh-Rawat&show-icons=true&theme=tokyonight)](https://github.com/Ashutosh-Rawat/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshsrawat&layout=compact)](https://github.com/ashutoshsrawat/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Rawat&layout=compact)](https://github.com/Ashutosh-Rawat/github-readme-stats)
 
 </details>
 
