@@ -40,6 +40,8 @@
 
   [![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutosh-Rawat)](https://github.com/Ashutosh-Rawat/github-readme-stats)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Rawat)](https://github.com/Ashutosh-Rawat/github-readme-stats)
+
 </details>
 
 ---
