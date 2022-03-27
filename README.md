@@ -38,7 +38,7 @@
 <details>
   <summary>:zap: GitHub Stats </summary>
 
-  [![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutosh-Rawat&show-icons=true&theme=tokyonight)](https://github.com/Ashutosh-Rawat/github-readme-stats)
+  [![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutosh-Rawat&theme=tokyonight&show-icons=true&hide_border=true)](https://github.com/Ashutosh-Rawat/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Rawat&layout=compact)](https://github.com/Ashutosh-Rawat/github-readme-stats)
 
