@@ -44,7 +44,7 @@
 
 </details>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh-Rawat&repo=github-readme-stats)](https://github.com/Ashutosh-Rawat/Ashutosh-Rawat/datastructures-algorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh-Rawat&repo=github-readme-stats)](https://github.com/Ashutosh-Rawat/Ashutosh-Rawat)
 
 
 ---
