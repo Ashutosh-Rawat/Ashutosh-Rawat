@@ -42,6 +42,9 @@
 
 </details>
 
+
+[![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 [machine-learning]:<https://coursera.org/share/19f029944e10b37c18e4875e98ec17d6>
 [linkedin]:<https://www.linkedin.com/in/ashutosh-singh-rawat-ml/>
