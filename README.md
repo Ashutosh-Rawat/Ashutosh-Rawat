@@ -38,9 +38,9 @@
 <details>
   <summary>### :zap: GitHub Stats </summary>
 
-  [![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutosh-Rawat)](https://github.com/ashutoshsrawat/github-readme-stats)
+  [![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutoshsrawat_show_icons=true)](https://github.com/ashutoshsrawat/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Rawat&layout=compact)](https://github.com/ashutoshsrawat/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshsrawat&layout=compact)](https://github.com/ashutoshsrawat/github-readme-stats)
 
 </details>
 
