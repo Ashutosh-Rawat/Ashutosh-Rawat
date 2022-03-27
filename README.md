@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ashutosh Singh Rawat
 
-## I love being a student  :upside_down_face
+## I love being a student  :upside_down_face:
 
 - 👀 Areas of interest -
 
@@ -22,8 +22,8 @@
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/ashutosh-singh-rawat-ml#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/ashutosh-singh-rawat-ml#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![twitter](./img/twitter-light.svg)](https://twitter.com/AshutoshSRawat#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/AshutoshSRawat#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/imAshutoshSRawat#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/imAshutoshRawat#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools
@@ -38,7 +38,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ashutosh Singh Rawat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Ashutosh Singh Rawat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Rawat_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
