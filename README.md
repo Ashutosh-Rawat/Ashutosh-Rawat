@@ -5,11 +5,15 @@
 - 👀 Areas of interest -
 
        - Machine Learning
+       - Deep Learning
        - Competitive Programming
        - Datastructures and algorithms
        - Computer Networks
 
-- 🌱 I’m currently learning - Deep Learning, Datastructures and algorithms
+- 🌱 I’m currently learning -
+ 
+       - Datastructures and algorithms
+       - Machine Learning
 
 - 🎈 Further goals - Working as a Machine Learning engineer
 
