@@ -12,8 +12,8 @@
 
 - 🌱 I’m currently learning -
  
-       - Datastructures and algorithms
        - Machine Learning
+       - Datastructures and algorithms
 
 - 🎈 Further goals - Working as a Machine Learning engineer
 
