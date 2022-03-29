@@ -23,12 +23,10 @@
 
 ### 📫 How to reach me
 
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/ashutosh-singh-rawat-ml#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/ashutosh-singh-rawat-ml#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![twitter](./img/twitter-light.svg)](https://twitter.com/imAshutoshSRawat#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/imAshutoshRawat#gh-dark-mode-only)
-&nbsp;&nbsp;
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/ashutosh-singh-rawat-ml)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ashutosh-singh-rawat-ml)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imAshutoshRawat)
 
 ### Languages and Tools
 
