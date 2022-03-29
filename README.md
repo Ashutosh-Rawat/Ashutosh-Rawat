@@ -6,8 +6,8 @@
 
        - Machine Learning
        - Competitive Programming
-       - Datastructures
-       - Algorithms
+       - Datastructures and algorithms
+       - Computer Networks
 
 - 🌱 I’m currently learning - Deep Learning, Datastructures and algorithms
 
