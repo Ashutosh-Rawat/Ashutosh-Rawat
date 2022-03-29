@@ -27,7 +27,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-singh-rawat-ml)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imAshutoshRawat)
 
-### Languages and Tools
+## Languages and Tools
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][machine-learning]
 [<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][machine-learning]
@@ -41,9 +41,6 @@
 
 <br />
 <br />
-<br />
-<br />
-
 
 <details>
   <summary>:zap: GitHub Stats </summary>
