@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Press Start';
+  src: url('font.ttf');
+}
+
+*{
+  font-family: 'Press Start';
+  font-size: 50px;
+  font-weight: 100;
+}
+
+h1{
+  color: #333;
+}
+
+body{
+  font: 15px helvetica,arial,freesans,clean,sans-serif;
+  margin: 20px auto;    
+  text-align: center;
+  background-color: white;
+}
+
+button{
+  border: 0ch;
+  background-color: white;
+}
+
+img{
+  width: 100px;
+  height: 100px;
+}
+
