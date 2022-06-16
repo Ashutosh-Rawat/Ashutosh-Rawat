@@ -35,6 +35,8 @@ class linkedlist:
             prev = current
             current = next
         self.head = prev
+
+
 #testing
 list = linkedlist()
 list.add(3)

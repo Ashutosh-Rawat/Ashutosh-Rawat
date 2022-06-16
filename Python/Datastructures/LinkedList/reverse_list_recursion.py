@@ -32,7 +32,7 @@ class linkedlist:
         self.reverse_list_recurse(pointer.next)     # post recursion operation lead the processes starting from last
         temp = pointer.next
         temp.next = pointer    # next node is referenced to previous node
-        pointer.next = None    # current's next is broken so that it won't have two points
+        # pointer.next = None    # current's next is broken so that it won't have two points
 
 #testing
 list = linkedlist()
