@@ -5,12 +5,13 @@ def pattern(nums):
         min_arr.append(min(min_arr[i-1],nums[i]))
 
     stack = []
-    for i in range(len(nums)):
-        while stack and stack[-1]<min_arr[i]:
-            stack.pop()
-        if stack and stack[-1]<nums[i]:
-            return True
-        stack.append(nums[i])
+    for i in range(len(nums)-1, -1, -1):
+        if nums[i]>min_arr[i]:
+            while stack and stack[-1] <= min_arr[i]:
+                stack.pop()
+            if stack and stack[-1]<nums[i]:
+                return True
+            stack.append(nums[i])
     return False
 
 
@@ -27,3 +28,6 @@ print(pattern(arr))
 
 arr = [1, 2, 3, 3, 4, 5, 5, 5, 6, 6, 8, 9, 10, 11, 12, 13, 15, 18, 19, 20, 21, 23, 22]
 print(pattern(arr))
+
+nums = [-1,3,2,0]
+print(pattern(nums))
