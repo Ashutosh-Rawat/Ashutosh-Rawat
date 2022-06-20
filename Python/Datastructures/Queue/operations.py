@@ -47,6 +47,8 @@ q.enque(3)
 q.enque(4)
 q.enque(5)
 q.print_queue()
+
+# is queue empty
 print(q.is_empty())
 #queue is full
 q.enque(10)
