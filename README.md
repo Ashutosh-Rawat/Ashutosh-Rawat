@@ -50,7 +50,7 @@
 ---
 [github]:<https://github.com/Ashutosh-Rawat/Ashutosh-Rawat/tree/main/datastructures-algorithms/Algorithms_C/>
 [machine-learning]:<https://coursera.org/share/19f029944e10b37c18e4875e98ec17d6>
-[linkedin]:<https://www.linkedin.com/in/ashutosh-singh-rawat-ml/>
+[linkedin]:<https://www.linkedin.com/in/aashu-rawat/>
 [twitter]:<https://www.twitter.com/AshutoshSRawat>
 
 <!---
