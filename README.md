@@ -4,18 +4,21 @@
 
 - 👀 Areas of interest -
 
-       - Machine Learning
-       - Deep Learning
+       - Full Stack Development
+       - Javascript
+       - Modern CSS
+       - AI and it's applications
        - Competitive Programming
        - Datastructures and algorithms
        - Computer Networks
 
 - 🌱 I’m currently learning -
  
-       - Datastructures and algorithms
-       - Machine Learning with Python
+       - Node.js and React.js
+       - Advanced algorithms
+       - Database Administration
 
-- 🎈 Further goals - Working as a Machine Learning engineer
+- 🎈 Further goals - Working as a Full Stack Developer
 
 - 💞️ I love sharing ideas and discuss projects😉
 
