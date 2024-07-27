@@ -68,15 +68,12 @@
   - Allows users to search for movies/TV shows, view details, play trailers, and get options to buy, rent, or stream movies online.
   - Design inspired by The Movie Database (TMDb) and uses its API to fetch movie data.
 
-### Open Source Contributions
-- **Repository Name**: Description of your contributions and the impact.
-
 ---
 
 ## Education
 
-- **Bachelor of Technology in Computer Science and Engineering**
-  - Galgotias College of Engineering and Technology, Greater Noida, India
+- **Bachelor of Technology in Computer Science and Engineering with specialization in Machine Learning**
+  - DIT University, Dehradun, Uttarakhand, India
   - Graduation Year: 2023
 
 ---
