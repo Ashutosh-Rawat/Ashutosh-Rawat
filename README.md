@@ -6,10 +6,8 @@
   - Full Stack Development
   - JavaScript
   - Modern CSS
-  - AI and its applications
-  - Competitive Programming
+  - Machine Learning
   - Data Structures and Algorithms
-  - Computer Networks
 
 - 🌱 I’m currently learning:
   - Node.js and React.js
@@ -63,19 +61,10 @@
   - Includes a music player with basic functionalities and an additional artist page.
 
 - **Video Streaming Website (Netflix Clone)**: 
-  - Live Demo
-  - Created using HTML, CSS, Bootstrap, jQuery plugins, JavaScript, APIs, and other frameworks.
   - Allows users to search for movies/TV shows, view details, play trailers, and get options to buy, rent, or stream movies online.
+  - Created using HTML, CSS, Bootstrap, jQuery plugins, JavaScript, APIs, and other frameworks.
   - Design inspired by The Movie Database (TMDb) and uses its API to fetch movie data.
-
----
-
-## Education
-
-- **Bachelor of Technology in Computer Science and Engineering with specialization in Machine Learning**
-  - DIT University, Dehradun, Uttarakhand, India
-  - Graduation Year: 2023
-
+    
 ---
 
 ## Certifications
@@ -93,7 +82,7 @@
 ## Skills
 
 - **Programming Languages**: JavaScript, Python, Java, C
-- **Web Technologies**: HTML, CSS, React.js, Node.js, Express.js, Bootstrap, Sass, Next.js
+- **Web Technologies**: HTML, CSS, React.js, Node.js, Express.js, Bootstrap, Sass, Next.js, JQuery
 - **Databases**: MySQL, MongoDB
 - **Tools and Platforms**: Git, GitHub, Visual Studio Code, Jupyter, Anaconda
 
