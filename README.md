@@ -17,7 +17,7 @@
 - 🎈 Further goals:
   - Working as a Full Stack Developer
 
-- 💞️ I love sharing ideas and discussing projects 😉
+- 💞️ I love sharing ideas and discussing projects 😄
 
 ---
 
