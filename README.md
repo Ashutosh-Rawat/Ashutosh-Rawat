@@ -80,8 +80,9 @@
 
 ## Skills
 
-- **Programming Languages**: JavaScript, Python, Java, C
-- **Web Technologies**: HTML, CSS, React.js, Node.js, Express.js, Bootstrap, Sass, Next.js, JQuery
+- **Programming Languages**: JavaScript, Python
+- **Front End Technologies**: HTML, CSS, Bootstrap, Sass, JQuery
+- **Back End Technologies**: Node.js, Express.js, ejs, ejs templates
 - **Databases**: MySQL, MongoDB
 - **Tools and Platforms**: Git, GitHub, Visual Studio Code, Jupyter, Anaconda
 
