@@ -10,9 +10,9 @@
   - Data Structures and Algorithms
 
 - 🌱 I’m currently learning:
-  - Node.js and React.js
+  - Express.js and React.js
   - Advanced algorithms
-  - Database Administration
+  - mongodb and socket programming
 
 - 🎈 Further goals:
   - Working as a Full Stack Developer
