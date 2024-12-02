@@ -116,11 +116,11 @@
 
 ---
 <!--- projects --->
-[python-project]: <https://www.render.com>
-[javascript-project]: <https://www.render.com>
-[ecom-api]: <https://www.render.com>
-[music-player-app]: <https://www.render.com>
-[netflix-clone]: <https://www.render.com>
+[python-project]: <https://www.coursera.org/account/accomplishments/certificate/SK3KWPVT3Q8M>
+[javascript-project]: <https://ashutosh-rawat.github.io/musicplayer/>
+[ecom-api]: <https://ecom-api-kcuj.onrender.com/api/docs>
+[music-player-app]: <https://ashutosh-rawat.github.io/music-player-js-app/>
+[netflix-clone]: <https://ashutosh-rawat.github.io/Video-streaming-website-clone/>
 <!--- certifications --->
 [cdnj-frontend]: <https://certificate.codingninjas.com/view/b5072cca2a3615be>
 [cdnj-backend]: <https://certificate.codingninjas.com/view/6211beff088fe660>
@@ -132,7 +132,7 @@
 [machine-learning]: <https://coursera.org/share/19f029944e10b37c18e4875e98ec17d6>
 [linkedin]: <https://www.linkedin.com/in/aashu-rawat>
 [code-profile]: <https://www.naukri.com/code360/profile/7bb9c584-6ff4-436a-a509-6cab8abd7d6b>
-[resume]: <>
+[resume]: <https://drive.google.com/file/d/1dHdc7-_tAtbbnYmY3RNS4-qD2zvmXDTb/view?usp=drive_link>
 <!---
 Ashutosh-Rawat/Ashutosh-Rawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
