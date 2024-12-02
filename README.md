@@ -1,23 +1,25 @@
 # 👋 Hi, I’m Ashutosh Singh Rawat
 
-## I love being a student  :upside_down_face:
+## Passionate Learner and Developer
 
-- 👀 Areas of interest:
+- **Areas of Interest:**
   - Full Stack Development
   - JavaScript
   - Modern CSS
   - Machine Learning
   - Data Structures and Algorithms
 
-- 🌱 I’m currently learning:
+- **Currently Learning:**
   - Express.js and React.js
-  - Advanced algorithms
-  - mongodb and socket programming
+  - Advanced Algorithms
+  - MongoDB and Socket Programming
 
-- 🎈 Further goals:
-  - Working as a Full Stack Developer
+- **Goals:**
+  - Aspiring Full Stack Developer
 
-- 💞️ I love sharing ideas and discussing projects 😄
+- **Achievements:**
+  - Completed major projects including a Music Player App and a Video Streaming Website (Netflix Clone)
+  - Developed a RESTful API for an e-commerce platform
 
 ---
 
