@@ -64,10 +64,6 @@
 [<img align="left" alt="Mongoose" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" style="padding-right:10px;" />][ecom-api]
 <br>
 
-
-<br />
-<br />
-
 ---
 
 ## Projects and Contributions
