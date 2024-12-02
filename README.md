@@ -20,6 +20,9 @@
 - **Achievements:**
   - Completed major projects including a Music Player App and a Video Streaming Website (Netflix Clone)
   - Developed a RESTful API for an e-commerce platform
+  - Successfully deployed the E-commerce API with comprehensive documentation using Swagger
+
+resume link is [resume]
 
 ---
 
