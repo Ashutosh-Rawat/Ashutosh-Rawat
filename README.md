@@ -90,18 +90,14 @@
 ---
 
 ## Certifications
-- **Back End Development | Full Stack Development (MERN)** by Coding Ninjas, 9/2024
-  - View Certificate 
-- **Front End Development | Full Stack Development (MERN)** by Coding Ninjas, 5/2024
-  - View Certificate 
-- **Data structures and algorithms in Python by Coding Ninjas, 6/2024
-  - View Certificate 
+- **[Back End Development | Full Stack Development (MERN)][cdnj-backend]** by Coding Ninjas, 9/2024
+- **[Front End Development | Full Stack Development (MERN)][cdnj-frontend]** by Coding Ninjas, 5/2024
+- **[Data structures and algorithms in Python][cdnj-dsa]** by Coding Ninjas, 6/2024
 - **Web Development** by Brain Mentors, 8/2023
   - (HTML5, CSS3, JavaScript, Bootstrap, Sass, MySQL, MongoDB, React.js, Git and GitHub, AWS)
-- **Machine Learning** by Coursera, 3/2022
-  - View Certificate 
-- **Python for Everybody (Getting Started with Python)** by Coursera, 6/2021
-  - View Certificate 
+- **[Machine Learning][coursera-ml]** by Coursera, 3/2022
+- **[Python for Everybody (Getting Started with Python)][coursera-python]** by Coursera, 6/2021
+
 
 ---
 
