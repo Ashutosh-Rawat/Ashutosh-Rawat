@@ -95,7 +95,7 @@
 - **[Front End Development | Full Stack Development (MERN)][cdnj-frontend]** by Coding Ninjas, 5/2024
   - *HTML, CSS, Bootstrap, JavaScript, jQuery*
 - **[Data structures and algorithms in Python][cdnj-dsa]** by Coding Ninjas, 6/2024
-  - *Python basics, functions, loops, libraries, imports, dunder/magic methods*
+  - *basic dsa, stack, tree, queue, dynamic programming, recursion, graph methods*
 - **Web Development** by Brain Mentors, 8/2023
   - *HTML5, CSS3, JavaScript, Bootstrap, Sass, MySQL, MongoDB, React.js, Git and GitHub, AWS*
 - **[Machine Learning][coursera-ml]** by Coursera, 3/2022
