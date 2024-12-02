@@ -46,7 +46,7 @@
 
 ## Frameworks and Libraries
 
-### Frontend
+### Frontend Technologies
 [<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][frontend-project]
 [<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][frontend-project]
 [<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][javascript]
@@ -55,7 +55,7 @@
 [<img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][frontend-project]
 <br>
 
-### Backend
+### Backend Technologies
 [<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][ecom-api]
 [<img align="left" alt="Express.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />][ecom-api]
 [<img align="left" alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />][ecom-api]
@@ -69,44 +69,63 @@
 ## Projects and Contributions
 
 ### Recent Projects
-- **Music Player App**: 
+
+- **[E-commerce API][ecom-api]**:
+  - Developed a RESTful API for an e-commerce platform.
+  - Implemented user authentication and authorization using JWT.
+  - Integrated MongoDB for database management and Mongoose for data modeling.
+  - Documented API endpoints using Swagger for easy testing and integration.
+
+- **[Music Player App][music-player-app]**: 
   - Completed as a major project in the Frontend Course by Coding Ninjas.
   - Features a dynamic and responsive front-end with advanced CSS for a clean and effective design.
   - Includes a music player with basic functionalities and an additional artist page.
 
-- **Video Streaming Website (Netflix Clone)**: 
+- **[Video Streaming Website (Netflix Clone)][netflix-clone]**: 
   - Allows users to search for movies/TV shows, view details, play trailers, and get options to buy, rent, or stream movies online.
   - Created using HTML, CSS, Bootstrap, jQuery plugins, JavaScript, APIs, and other frameworks.
   - Design inspired by The Movie Database (TMDb) and uses its API to fetch movie data.
-    
+
+
 ---
 
 ## Certifications
-
+- **Back End Development | Full Stack Development (MERN)** by Coding Ninjas, 9/2024
+  - View Certificate 
 - **Front End Development | Full Stack Development (MERN)** by Coding Ninjas, 5/2024
-  - View Certificate
-- **Web Development** by Coding Ninjas (HTML5, CSS3, JavaScript, Bootstrap, Sass, MySQL, MongoDB, React.js, Git and GitHub, AWS), 8/2023
-- **Python for Everybody** by Coursera, 6/2021
-  - View Certificate
+  - View Certificate 
+- **Data structures and algorithms in Python by Coding Ninjas, 6/2024
+  - View Certificate 
+- **Web Development** by Brain Mentors, 8/2023
+  - (HTML5, CSS3, JavaScript, Bootstrap, Sass, MySQL, MongoDB, React.js, Git and GitHub, AWS)
 - **Machine Learning** by Coursera, 3/2022
-  - View Certificate
+  - View Certificate 
+- **Python for Everybody (Getting Started with Python)** by Coursera, 6/2021
+  - View Certificate 
 
 ---
 
 ## Skills
-
 - **Programming Languages**: JavaScript, Python
 - **Front End Technologies**: HTML, CSS, Bootstrap, Sass, JQuery
-- **Back End Technologies**: Node.js, Express.js, ejs, ejs templates
+- **Back End Technologies**: Node.js, Express.js, ejs, ejs templates, mongoose, swagger, cors, jwt
 - **Databases**: MySQL, MongoDB
 - **Tools and Platforms**: Git, GitHub, Visual Studio Code, Jupyter, Anaconda
 
 ---
-
-[python]: <https://www.render.com>
+<!--- projects --->
+[python-project]: <https://www.render.com>
+[javascript-project]: <https://www.render.com>
 [ecom-api]: <https://www.render.com>
-[javascript]: <https://www.render.com>
-[frontend-project]: <https://www.render.com>
+[music-player-app]: <https://www.render.com>
+[netflix-clone]: <https://www.render.com>
+<!--- certifications --->
+[cdnj-frontend]: <https://certificate.codingninjas.com/view/b5072cca2a3615be>
+[cdnj-backend]: <https://certificate.codingninjas.com/view/6211beff088fe660>
+[cdnj-dsa]: <https://certificate.codingninjas.com/view/5a2716a26217757d>
+[coursera-ml]: <https://www.coursera.org/account/accomplishments/certificate/LTYBUCXJKBNT>
+[coursera-python]: <https://www.coursera.org/account/accomplishments/certificate/SK3KWPVT3Q8M>
+<!--- profiles --->
 [github]: <https://github.com/Ashutosh-Rawat/Ashutosh-Rawat/tree/main/datastructures-algorithms/Algorithms_C/>
 [machine-learning]: <https://coursera.org/share/19f029944e10b37c18e4875e98ec17d6>
 [linkedin]: <https://www.linkedin.com/in/aashu-rawat>
