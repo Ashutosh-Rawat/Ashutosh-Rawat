@@ -26,7 +26,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/callme-aashu)
 
 ## Tools
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][ecom-api]
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][ecom-api]
 [<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />][machine-learning]
 [<img align="left" alt="Matlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />][machine-learning]
 [<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />][machine-learning]
