@@ -60,7 +60,7 @@
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][ecom-api]
 [<img align="left" alt="Express.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />][ecom-api]
 [<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />][ecom-api]
-[<img align="left" alt="JWT" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" style="padding-right:10px;" />][ecom-api]
+[<img align="left" alt="JWT" width="26px" src="https://jwt.io/img/icon.svg" style="padding-right:10px;" />][ecom-api]
 [<img align="left" alt="Swagger" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" style="padding-right:10px;" />][ecom-api]
 [<img align="left" alt="Mongoose" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" style="padding-right:10px;" />][ecom-api]
 <br>
