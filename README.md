@@ -91,13 +91,17 @@
 
 ## Certifications
 - **[Back End Development | Full Stack Development (MERN)][cdnj-backend]** by Coding Ninjas, 9/2024
+  - *Node.js, Express, Socket.io, JWT, MongoDB, Mongoose, Swagger, REST API, EJS, EJS Templates*
 - **[Front End Development | Full Stack Development (MERN)][cdnj-frontend]** by Coding Ninjas, 5/2024
+  - *HTML, CSS, Bootstrap, JavaScript, jQuery*
 - **[Data structures and algorithms in Python][cdnj-dsa]** by Coding Ninjas, 6/2024
+  - *Python basics, functions, loops, libraries, imports, dunder/magic methods*
 - **Web Development** by Brain Mentors, 8/2023
-  -- (HTML5, CSS3, JavaScript, Bootstrap, Sass, MySQL, MongoDB, React.js, Git and GitHub, AWS)
+  - *HTML5, CSS3, JavaScript, Bootstrap, Sass, MySQL, MongoDB, React.js, Git and GitHub, AWS*
 - **[Machine Learning][coursera-ml]** by Coursera, 3/2022
+  - *Supervised learning, Unsupervised learning, Regression, SVM, Neural Networks, Clustering, Dimensionality Reduction*
 - **[Python for Everybody (Getting Started with Python)][coursera-python]** by Coursera, 6/2021
-
+  - *Python basics, functions, loops, libraries, imports, dunder/magic methods*
 
 ---
 
