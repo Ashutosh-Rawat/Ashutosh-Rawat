@@ -34,7 +34,7 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][ecom-api]
 [<img align="left" alt="Atom" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" style="padding-right:10px;" />][machine-learning]
 [<img align="left" alt="Render" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" style="padding-right:10px;" />][ecom-api]
-
+<br>
 
 ## Languages
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][python]
@@ -43,6 +43,7 @@
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />][machine-learning]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][machine-learning]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][ecom-api]
+<br>
 
 ## Frameworks and Libraries
 
@@ -53,6 +54,7 @@
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][ecom-api]
 [<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />][frontend-project]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][frontend-project]
+<br>
 
 ### Backend
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][ecom-api]
@@ -61,7 +63,7 @@
 [<img align="left" alt="JWT" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" style="padding-right:10px;" />][ecom-api]
 [<img align="left" alt="Swagger" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" style="padding-right:10px;" />][ecom-api]
 [<img align="left" alt="Mongoose" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" style="padding-right:10px;" />][ecom-api]
-
+<br>
 
 
 <br />
