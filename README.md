@@ -132,7 +132,7 @@
 [machine-learning]: <https://coursera.org/share/19f029944e10b37c18e4875e98ec17d6>
 [linkedin]: <https://www.linkedin.com/in/aashu-rawat>
 [code-profile]: <https://www.naukri.com/code360/profile/7bb9c584-6ff4-436a-a509-6cab8abd7d6b>
-[resume]: <https://drive.google.com/file/d/1dHdc7-_tAtbbnYmY3RNS4-qD2zvmXDTb/view?usp=drive_link>
+[resume]: <https://drive.google.com/file/d/1A4TgkDBeoknuHYIwrrRzPgivCRc9U-Io/view?usp=drive_link>
 <!---
 Ashutosh-Rawat/Ashutosh-Rawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
