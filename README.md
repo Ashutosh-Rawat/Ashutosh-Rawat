@@ -75,6 +75,11 @@ resume link is [resume]
 
 ### Recent Projects
 
+- **[Project Easily][project-easily]**:
+  - A comprehensive job portal application that simplifies job listings and applications.
+  - Built with Node.js, Express.js, EJS, and MongoDB, enabling smooth user experiences for both employers and job seekers.
+  - Features include secure user authentication via JWT, email notifications through Nodemailer with EJS templates, and category-based job filtering.
+
 - **[E-commerce API][ecom-api]**:
   - Developed a RESTful API for an e-commerce platform.
   - Implemented user authentication and authorization using JWT.
@@ -121,6 +126,7 @@ resume link is [resume]
 <!--- projects --->
 [python-project]: <https://www.coursera.org/account/accomplishments/certificate/SK3KWPVT3Q8M>
 [javascript-project]: <https://ashutosh-rawat.github.io/musicplayer/>
+[project-easily]: <https://jobportal-easily.onrender.com/>
 [ecom-api]: <https://ecom-api-kcuj.onrender.com/api/docs>
 [music-player-app]: <https://ashutosh-rawat.github.io/music-player-js-app/>
 [netflix-clone]: <https://ashutosh-rawat.github.io/Video-streaming-website-clone/>
