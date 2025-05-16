@@ -26,6 +26,12 @@ resume link is [resume]
 
 ---
 
+# 🚀 MY PORTFOLIO
+## [👉 ashutosh-rawat.github.io/Web-Portfolio/](https://ashutosh-rawat.github.io/Web-Portfolio/)
+*Showcasing all my projects with live demos and detailed case studies*
+
+---
+
 # MY PROFILE
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)][code-profile]
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
@@ -124,25 +130,21 @@ resume link is [resume]
 
 ---
 <!--- projects --->
-[python-project]: <https://www.coursera.org/account/accomplishments/certificate/SK3KWPVT3Q8M>
-[javascript-project]: <https://ashutosh-rawat.github.io/musicplayer/>
-[project-easily]: <https://jobportal-easily.onrender.com/>
-[ecom-api]: <https://ecom-api-kcuj.onrender.com/api/docs>
-[music-player-app]: <https://ashutosh-rawat.github.io/music-player-js-app/>
-[netflix-clone]: <https://ashutosh-rawat.github.io/Video-streaming-website-clone/>
+[python-project]: https://www.coursera.org/account/accomplishments/certificate/SK3KWPVT3Q8M
+[javascript-project]: https://ashutosh-rawat.github.io/musicplayer/
+[project-easily]: https://jobportal-easily.onrender.com/
+[ecom-api]: https://ecom-api-kcuj.onrender.com/api/docs
+[music-player-app]: https://ashutosh-rawat.github.io/music-player-js-app/
+[netflix-clone]: https://ashutosh-rawat.github.io/Video-streaming-website-clone/
 <!--- certifications --->
-[cdnj-frontend]: <https://certificate.codingninjas.com/view/b5072cca2a3615be>
-[cdnj-backend]: <https://certificate.codingninjas.com/view/6211beff088fe660>
-[cdnj-dsa]: <https://certificate.codingninjas.com/view/5a2716a26217757d>
-[coursera-ml]: <https://www.coursera.org/account/accomplishments/certificate/LTYBUCXJKBNT>
-[coursera-python]: <https://www.coursera.org/account/accomplishments/certificate/SK3KWPVT3Q8M>
+[cdnj-frontend]: https://certificate.codingninjas.com/view/b5072cca2a3615be
+[cdnj-backend]: https://certificate.codingninjas.com/view/6211beff088fe660
+[cdnj-dsa]: https://certificate.codingninjas.com/view/5a2716a26217757d
+[coursera-ml]: https://www.coursera.org/account/accomplishments/certificate/LTYBUCXJKBNT
+[coursera-python]: https://www.coursera.org/account/accomplishments/certificate/SK3KWPVT3Q8M
 <!--- profiles --->
-[github]: <https://github.com/Ashutosh-Rawat/Ashutosh-Rawat/tree/main/datastructures-algorithms/Algorithms_C/>
-[machine-learning]: <https://coursera.org/share/19f029944e10b37c18e4875e98ec17d6>
-[linkedin]: <https://www.linkedin.com/in/aashu-rawat>
-[code-profile]: <https://www.naukri.com/code360/profile/7bb9c584-6ff4-436a-a509-6cab8abd7d6b>
-[resume]: <https://drive.google.com/file/d/1hZ-FUBlX_4Sefmy0-2k-1raTuiqdWXb2/view?usp=drive_link>
-<!---
-Ashutosh-Rawat/Ashutosh-Rawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[github]: https://github.com/Ashutosh-Rawat/Ashutosh-Rawat/tree/main/datastructures-algorithms/Algorithms_C/
+[machine-learning]: https://coursera.org/share/19f029944e10b37c18e4875e98ec17d6
+[linkedin]: https://www.linkedin.com/in/aashu-rawat
+[code-profile]: https://ashutosh-rawat.github.io/Web-Portfolio/
+[resume]: https://drive.google.com/file/d/1hZ-FUBlX_4Sefmy0-2k-1raTuiqdWXb2/view?usp=drive_link
