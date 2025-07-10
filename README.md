@@ -105,19 +105,23 @@ resume link is [resume]
 
 ---
 
-## Certifications
-- **[Back End Development | Full Stack Development (MERN)][cdnj-backend]** by Coding Ninjas, 9/2024
-  - *Node.js, Express, Socket.io, JWT, MongoDB, Mongoose, Swagger, REST API, EJS, EJS Templates*
-- **[Front End Development | Full Stack Development (MERN)][cdnj-frontend]** by Coding Ninjas, 5/2024
-  - *HTML, CSS, Bootstrap, JavaScript, jQuery*
-- **[Data structures and algorithms in Python][cdnj-dsa]** by Coding Ninjas, 6/2024
-  - *basic dsa, stack, tree, queue, dynamic programming, recursion, graph methods*
-- **Web Development** by Brain Mentors, 8/2023
-  - *HTML5, CSS3, JavaScript, Bootstrap, Sass, MySQL, MongoDB, React.js, Git and GitHub, AWS*
-- **[Machine Learning][coursera-ml]** by Coursera, 3/2022
-  - *Supervised learning, Unsupervised learning, Regression, SVM, Neural Networks, Clustering, Dimensionality Reduction*
-- **[Python for Everybody (Getting Started with Python)][coursera-python]** by Coursera, 6/2021
-  - *Python basics, functions, loops, libraries, imports, dunder/magic methods*
+## Certifications  
+- **[Back End Development | Full Stack Development (MERN)][cdnj-backend]** by Coding Ninjas, 9/2024  
+  - *Node.js, Express, Socket.io, JWT, MongoDB, Mongoose, Swagger, REST API, EJS, EJS Templates*  
+- **[Front End Development | Full Stack Development (MERN)][cdnj-frontend]** by Coding Ninjas, 5/2024  
+  - *HTML, CSS, Bootstrap, JavaScript, jQuery*  
+- **[Data structures and algorithms in Python][cdnj-dsa]** by Coding Ninjas, 6/2024  
+  - *Basic DSA, Stack, Tree, Queue, Dynamic Programming, Recursion, Graph Methods*  
+- **[Complete Machine Learning Course with Python][infosys-ml]** by Infosys, 5/2022 - 7/2022  
+  - *Python, Scikit-learn, Pandas, NumPy*  
+- **Complete Java Course (JavaSE and JavaEE)** by Brain Mentors, 2/2022 - 6/2022  
+  - *Core Java, JDBC, Servlets, JSP, Swing*  
+- **Web Development** by Brain Mentors, 8/2023  
+  - *HTML5, CSS3, JavaScript, Bootstrap, Sass, MySQL, MongoDB, React.js, Git and GitHub, AWS*  
+- **[Machine Learning][coursera-ml]** by Coursera, 3/2022  
+  - *Supervised Learning, Unsupervised Learning, Regression, SVM, Neural Networks, Clustering, Dimensionality Reduction*  
+- **[Python for Everybody (Getting Started with Python)][coursera-python]** by Coursera, 6/2021  
+  - *Python Basics, Functions, Loops, Libraries, Imports, Dunder/Magic Methods* 
 
 ---
 
@@ -142,6 +146,7 @@ resume link is [resume]
 [cdnj-dsa]: https://certificate.codingninjas.com/view/5a2716a26217757d
 [coursera-ml]: https://www.coursera.org/account/accomplishments/certificate/LTYBUCXJKBNT
 [coursera-python]: https://www.coursera.org/account/accomplishments/certificate/SK3KWPVT3Q8M
+[infosys-ml]: https://drive.google.com/file/d/1bTePmMfENvXF14vzT6Ul8gNLdwy1nlPV/view?usp=drive_link
 <!--- profiles --->
 [github]: https://github.com/Ashutosh-Rawat/Ashutosh-Rawat/tree/main/datastructures-algorithms/Algorithms_C/
 [machine-learning]: https://coursera.org/share/19f029944e10b37c18e4875e98ec17d6
