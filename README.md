@@ -152,4 +152,4 @@ resume link is [resume]
 [machine-learning]: https://coursera.org/share/19f029944e10b37c18e4875e98ec17d6
 [linkedin]: https://www.linkedin.com/in/aashu-rawat
 [code-profile]: https://ashutosh-rawat.github.io/Web-Portfolio/
-[resume]: https://drive.google.com/file/d/1z-er1iUNBqMuJhb2E1xXt802vFkKXgMS/view?usp=drive_link
+[resume]: https://drive.google.com/file/d/1xZicu2d5BRF6MFYmfbLl9YRZns7GauyV/view?usp=drive_link
